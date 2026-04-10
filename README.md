@@ -35,8 +35,8 @@ A full-stack Task Manager application built with React (Vite) and Node.js/Expres
 **1. Clone the repository**
 
 ```bash
-git clone <repo-url>
-cd task-manager
+git clone https://github.com/Kritansh-Tank/Task-Manager
+cd Task-Manager
 ```
 
 **2. Start the backend**
