@@ -70,6 +70,10 @@ App opens at `http://localhost:5173`.
 
 **Response format**: `{ success: boolean, data: ..., error?: string }`
 
+## User Interface
+
+![Task Manager](assets/task_manager.png)
+
 ## Project Structure
 
 ```
